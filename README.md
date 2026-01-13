@@ -15,8 +15,7 @@ A Passionate Full Stack Developer and Coding Enthusiast
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sujalnarkar&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
