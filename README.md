@@ -6,12 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=black&center=true&vCenter=true&width=2000&height=200&lines=FULL+STACK+DEVELOPER;WEB+APPLICATIONS;BACKEND+%26+FRONTEND;CLEAN+CODE+%26+LOGIC)](https://git.io/typing-svg)
 
-<h3 align="center">
-A Passionate Full Stack Developer and Coding Enthusiast 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25" />
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="25" height="25" />
-</h3>
+
 
 
 <h1 align="center">Hi 👋, I'm Sujal Narkar</h1>
