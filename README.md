@@ -22,60 +22,6 @@ A Passionate Full Stack Developer and Coding Enthusiast
 </div>
 </details>
 
-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="25" height="25" /> Final Year **Computer Science Student**  
-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="25" height="25" /> Currently learning **System Design & Full Stack Development**  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Light%20Skin%20Tone.png" width="25" height="25" /> Open to contributing to **Open Source Projects**  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" width="25" height="25" /> Ask me about **PHP, JavaScript, React, SQL, Azure**  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="25" height="25" /> How to reach me :
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="28" />
-</a>
-
-<br>
-
-<h3 align="left">
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="50" height="50">
-Connect with me:
-</h3>
-
-<p align="left">
-<a href="https://twitter.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</p>
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujalnarkar&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujalnarkar&show_icons=true&locale=en" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujalnarkar" />
-</p>
-
-<h4>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" width="60" height="60" />
-Profile Viewers
-</h4>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sujalnarkar/count.svg" />
-</div>
-
-<div align="center">
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" width="60" height="60" />
-    My Contributions
-  </h2>
-  <img src="https://github.com/sujalnarkar/sujalnarkar/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sujalnarkar&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
