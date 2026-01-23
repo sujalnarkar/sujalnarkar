@@ -18,31 +18,17 @@ A Fresher Full Stack Developer & Coding Enthusiast
 </h3>
 
 <p align="center">
-I am a motivated fresher passionate about building real-world web applications 🌐.<br>
-I enjoy working across frontend and backend, writing clean and understandable code,<br>
-and continuously learning modern tools, cloud concepts, and best practices to grow<br>
-as a full stack developer 🚀
+I am a motivated fresher who enjoys building real-world web applications 🌐.  
+I work with both frontend and backend technologies, focus on writing clean and
+understandable code, and continuously learn modern tools, cloud concepts,
+and best practices to grow as a full stack developer 🚀
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sujalnarkar&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<br>
-
-<!-- ===================== GITHUB STATS ===================== -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujalnarkar&show_icons=true&theme=react&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalnarkar&layout=compact&theme=react&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sujalnarkar&theme=react&hide_border=true" />
-</p>
-
-<br>
-
+<br><br>
 <img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="max-width: 100%; display: inline-block;">
 
 ### 👨‍💻 About Me
@@ -53,6 +39,18 @@ as a full stack developer 🚀
 - 💬 Comfortable with **PHP, JavaScript, React, SQL, and Web Fundamentals**
 - 📫 Reach me at **sujalnarka172@gmail.com**
 - ⚡ Fun fact: **I enjoy solving problems by combining logic with creativity**
+
+<br>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sujalnarkar&show_icons=true&theme=react&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalnarkar&layout=compact&theme=react&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sujalnarkar&theme=react&hide_border=true" />
+</p>
 
 <br>
 
