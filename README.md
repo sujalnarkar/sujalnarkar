@@ -48,11 +48,7 @@ and best practices to grow as a full stack developer 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalnarkar&layout=compact&theme=react&hide_border=true" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sujalnarkar&theme=react&hide_border=true" />
-</p>
 
-<br>
 
 ### 🌐 Connect With Me
 <p align="left">
