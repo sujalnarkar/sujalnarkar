@@ -11,17 +11,17 @@
 <h1 align="center">Hi 👋, I'm Sujal Narkar</h1>
 
 <h3 align="center">
-A Passionate Full Stack Developer & Coding Enthusiast
+A Fresher Full Stack Developer & Coding Enthusiast
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="22" />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22" />
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="22" />
 </h3>
 
 <p align="center">
-I enjoy turning ideas into scalable web applications 🌐.
-I work across frontend and backend, love clean architecture,
-and explore cloud, analytics, and system design to build
-real-world, production-ready solutions 🚀
+I am a motivated fresher who enjoys building real-world web applications 🌐.  
+I work with both frontend and backend technologies, focus on writing clean and
+understandable code, and continuously learn modern tools, cloud concepts,
+and best practices to grow as a full stack developer 🚀
 </p>
 
 <p align="center">
@@ -30,13 +30,15 @@ real-world, production-ready solutions 🚀
 
 <br><br>
 <img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 ### 👨‍💻 About Me
-- 🔭 Working on **Full Stack & PHP-based Applications**
-- 🌱 Learning **System Design, Azure & Data Analytics**
-- 🧩 Built projects like **Lead Management System, ERP, AI Career Coach**
-- 💬 Ask me about **PHP, JavaScript, React, SQL, Azure**
+- 🎓 Final-year Computer Engineering student & **Fresher Python Full Stack Developer**
+- 🔭 Working on **PHP-based and Full Stack Web Applications**
+- 🌱 Currently learning **System Design basics, Azure & Data Analytics**
+- 🧩 Built academic and personal projects like **Lead Management System, ERP**
+- 💬 Comfortable with **PHP, JavaScript, React, SQL, and Web Fundamentals**
 - 📫 Reach me at **sujalnarka172@gmail.com**
-- ⚡ Fun fact: **I love mixing creativity with logic**
+- ⚡ Fun fact: **I enjoy solving problems by combining logic with creativity**
 
 <br>
 
@@ -61,7 +63,7 @@ real-world, production-ready solutions 🚀
 
 **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=php,nodejs,py" />
+  <img src="https://skillicons.dev/icons?i=php,py" />
 </p>
 
 **Frontend**
@@ -81,7 +83,7 @@ real-world, production-ready solutions 🚀
 
 **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 
 <br>
